@@ -1,1 +1,4 @@
-"# com1028"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/JClarke24/com1028.gitgit push -u origin main
+#README.mdgit
+
+The of the project is to write a program which allows the user to organise, catalog and handle his/her music collection -­‐ album title,
+group (artist or composer).
